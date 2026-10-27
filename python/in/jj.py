@@ -1,0 +1,2 @@
+r={};
+print(type(r))

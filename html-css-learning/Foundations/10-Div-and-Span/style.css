@@ -1,0 +1,12 @@
+.card {
+    padding: 20px;
+    margin: 30px;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    max-width: 400px;
+}
+
+.highlight {
+    color: #1769aa;
+    font-weight: bold;
+}
